@@ -262,7 +262,7 @@
     let html = '';
     otherSites.forEach(site => {
       html += `
-        <a href="https://${site.domain}" class="site-card" target="_blank" rel="noopener">
+        <a href="${site.url}" class="site-card" target="_blank" rel="noopener">
           <h3>${site.title}</h3>
           <p>${site.description}</p>
           <span class="domain">${site.domain}</span>
