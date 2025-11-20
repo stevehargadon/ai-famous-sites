@@ -3,8 +3,8 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2025-11-18T18:35:46.287Z
- * Total sites: 29
+ * Last updated: 2025-11-20T16:51:11.669Z
+ * Total sites: 30
  */
 
 (function() {
@@ -19,21 +19,24 @@
         "status": "generated",
         "error": null,
         "contentFile": "/root/ai-famous/ai-famous/test-data/aiandethics-org.json",
-        "siteDir": "/root/ai-famous/ai-famous/sites/aiandethics.org"
+        "siteDir": "/root/ai-famous/ai-famous/sites/aiandethics.org",
+        "publishedDate": "July 16, 2025"
     },
     {
         "title": "The Future of Therapy: How AI Could Transform Mental Health Care",
         "url": "https://www.stevehargadon.com/2025/09/the-future-of-therapy-how-ai-could.html",
         "domain": "aiastherapist.com",
         "description": "The Future of Therapy: How AI Could Transform Mental Health Care",
-        "status": "generated"
+        "status": "generated",
+        "publishedDate": "September 17, 2025"
     },
     {
         "title": "AI as Writing Mentor: Question-Based Rather Than Prompt-Based LLM Assistance",
         "url": "https://www.stevehargadon.com/2025/08/ai-as-writing-mentor-question-based.html",
         "domain": "aiaswritingmentor.com",
         "description": "AI as Writing Mentor: Question-Based Rather Than Prompt-Based LLM Assistance",
-        "status": "generated"
+        "status": "generated",
+        "publishedDate": "August 10, 2025"
     },
     {
         "title": "The Amazing, but Unsettling, Value of AI for Medical Diagnosis (a personal story)",
@@ -42,35 +45,40 @@
         "status": "generated",
         "error": null,
         "contentFile": "/root/ai-famous/ai-famous/test-data/aifordiagnosis-org.json",
-        "siteDir": "/root/ai-famous/ai-famous/sites/aifordiagnosis.org"
+        "siteDir": "/root/ai-famous/ai-famous/sites/aifordiagnosis.org",
+        "publishedDate": "May 30, 2025"
     },
     {
         "title": "Intentional Education with AI: The Amish Test and Generative Teaching",
         "url": "https://www.stevehargadon.com/2025/08/intentional-education-with-ai-amish.html",
         "domain": "amishtest.com",
         "description": "Intentional Education with AI: The Amish Test and Generative Teaching",
-        "status": "generated"
+        "status": "generated",
+        "publishedDate": "August 10, 2025"
     },
     {
         "title": "AI and the Calculator Effect",
         "url": "https://www.stevehargadon.com/2025/03/ai-and-calculator-effect.html",
         "domain": "calculatoreffect.com",
         "description": "AI and the Calculator Effect",
-        "status": "generated"
+        "status": "generated",
+        "publishedDate": "March 17, 2025"
     },
     {
         "title": "AI and the \"Cliff Clavin Problem\"",
         "url": "https://www.stevehargadon.com/2025/03/ai-and-cliff-clavin-problem.html",
         "domain": "cliffclavinproblem.com",
         "description": "AI and the \"Cliff Clavin Problem\"",
-        "status": "generated"
+        "status": "generated",
+        "publishedDate": "March 16, 2025"
     },
     {
         "title": "The Game of School and the Levels of Learning",
         "url": "https://www.stevehargadon.com/2015/08/conditions-of-learning-exercise.html",
         "domain": "conditionsoflearning.com",
         "description": "The Game of School and the Levels of Learning",
-        "status": "generated"
+        "status": "generated",
+        "publishedDate": "August 27, 2015"
     },
     {
         "title": "The Pathologizing of Pattern Recognition: How \"Conspiracy Theory\" Became a Thought-Stopping Cliché",
@@ -79,7 +87,8 @@
         "status": "generated",
         "error": null,
         "contentFile": "/root/ai-famous/ai-famous/test-data/conspiracyreality-org.json",
-        "siteDir": "/root/ai-famous/ai-famous/sites/conspiracyreality.org"
+        "siteDir": "/root/ai-famous/ai-famous/sites/conspiracyreality.org",
+        "publishedDate": "October 13, 2025"
     },
     {
         "title": "Shadows on the Wall - The Futility of Ed Reform",
@@ -88,7 +97,8 @@
         "status": "generated",
         "error": null,
         "contentFile": "/root/ai-famous/ai-famous/test-data/educationreform-net.json",
-        "siteDir": "/root/ai-famous/ai-famous/sites/educationreform.net"
+        "siteDir": "/root/ai-famous/ai-famous/sites/educationreform.net",
+        "publishedDate": "May 26, 2015"
     },
     {
         "title": "Is an Emergent Synthetic Intelligence Already Here?",
@@ -97,35 +107,40 @@
         "status": "generated",
         "error": null,
         "contentFile": "/root/ai-famous/ai-famous/test-data/emergentsyntheticintelligence-com.json",
-        "siteDir": "/root/ai-famous/ai-famous/sites/emergentsyntheticintelligence.com"
+        "siteDir": "/root/ai-famous/ai-famous/sites/emergentsyntheticintelligence.com",
+        "publishedDate": "April 22, 2025"
     },
     {
         "title": "Generative Education",
         "url": "https://www.stevehargadon.com/2024/07/the-generative-approach-to-education.html",
         "domain": "generativeeducation.org",
         "description": "Generative Education",
-        "status": "generated"
+        "status": "generated",
+        "publishedDate": "July 04, 2024"
     },
     {
         "title": "Human Agency: AI and the New Power to Be Creative",
         "url": "https://www.stevehargadon.com/2025/09/human-agency-ai-and-new-power-to-be.html",
         "domain": "humanagencywithai.com",
         "description": "Human Agency: AI and the New Power to Be Creative",
-        "status": "generated"
+        "status": "generated",
+        "publishedDate": "September 17, 2025"
     },
     {
         "title": "A New Old Way: Learning in Conversation with AI",
         "url": "https://www.stevehargadon.com/2025/03/a-new-old-way-learning-in-conversation.html",
         "domain": "learninginconversation.com",
         "description": "A New Old Way: Learning in Conversation with AI",
-        "status": "generated"
+        "status": "generated",
+        "publishedDate": "March 24, 2025"
     },
     {
         "title": "Levels of Learning",
         "url": "https://www.stevehargadon.com/2019/09/the-game-of-school.html",
         "domain": "levelsoflearning.com",
         "description": "Levels of Learning",
-        "status": "generated"
+        "status": "generated",
+        "publishedDate": "September 26, 2019"
     },
     {
         "title": "The Zika Virus and the Limitations of AI Reasoning",
@@ -134,7 +149,8 @@
         "status": "generated",
         "error": null,
         "contentFile": "/root/ai-famous/ai-famous/test-data/limitsofai-org.json",
-        "siteDir": "/root/ai-famous/ai-famous/sites/limitsofai.org"
+        "siteDir": "/root/ai-famous/ai-famous/sites/limitsofai.org",
+        "publishedDate": "May 20, 2025"
     },
     {
         "title": "Modern Learning: Re-Discovering the Transformative Promise of Educational Technology [REPORT], October 2017",
@@ -143,42 +159,48 @@
         "status": "generated",
         "error": null,
         "contentFile": "/root/ai-famous/ai-famous/test-data/modernlearningreport-com.json",
-        "siteDir": "/root/ai-famous/ai-famous/sites/modernlearningreport.com"
+        "siteDir": "/root/ai-famous/ai-famous/sites/modernlearningreport.com",
+        "publishedDate": "September 08, 2025"
     },
     {
         "title": "Output Shaping: A New Way to Think About the Ethics and Use of AI for Content Creation",
         "url": "https://www.stevehargadon.com/2025/11/output-shaping-new-way-to-think-about.html",
         "domain": "outputshaping.com",
         "description": "Output Shaping: A New Way to Think About the Ethics and Use of AI for Content Creation",
-        "status": "generated"
+        "status": "generated",
+        "publishedDate": "November 04, 2025"
     },
     {
         "title": "The Paleolithic Paradox: Why AI Is Not Like Us",
         "url": "https://www.stevehargadon.com/2025/05/the-paleolithic-paradox-why-ai-is-not.html",
         "domain": "paleolithicparadox.com",
         "description": "The Paleolithic Paradox: Why AI Is Not Like Us",
-        "status": "generated"
+        "status": "generated",
+        "publishedDate": "May 12, 2025"
     },
     {
         "title": "AI and the Paradox of Education: Generative Teaching, Agentic Learning, and Education's Singularity",
         "url": "https://www.stevehargadon.com/2025/03/ai-and-paradox-of-education-generative.html",
         "domain": "paradoxofeducation.com",
         "description": "AI and the Paradox of Education: Generative Teaching, Agentic Learning, and Education's Singularity",
-        "status": "generated"
+        "status": "generated",
+        "publishedDate": "March 20, 2025"
     },
     {
         "title": "The Philosopher's Dilemma and Why We Need to Pay Close Attention to AI's Narrative Power",
         "url": "https://www.stevehargadon.com/2025/09/the-philosophers-dilemma-and-why-we.html",
         "domain": "philosophersdilemma.com",
         "description": "The Philosopher's Dilemma and Why We Need to Pay Close Attention to AI's Narrative Power",
-        "status": "generated"
+        "status": "generated",
+        "publishedDate": "September 06, 2025"
     },
     {
         "title": "The Illusion of Intelligence: Why Simulated Consciousness Feels Real Enough",
         "url": "https://www.stevehargadon.com/2025/09/the-illusion-of-intelligence-why.html",
         "domain": "simulatedconsciousness.com",
         "description": "The Illusion of Intelligence: Why Simulated Consciousness Feels Real Enough",
-        "status": "generated"
+        "status": "generated",
+        "publishedDate": "September 17, 2025"
     },
     {
         "title": "The Source Code of Human Civilization and the Real Danger of AI",
@@ -187,7 +209,8 @@
         "status": "generated",
         "error": null,
         "contentFile": "/root/ai-famous/ai-famous/test-data/sourcecodeofhumanity-com.json",
-        "siteDir": "/root/ai-famous/ai-famous/sites/sourcecodeofhumanity.com"
+        "siteDir": "/root/ai-famous/ai-famous/sites/sourcecodeofhumanity.com",
+        "publishedDate": "October 01, 2025"
     },
     {
         "title": "A Student Bill of Rights",
@@ -196,28 +219,32 @@
         "status": "generated",
         "error": null,
         "contentFile": "/root/ai-famous/ai-famous/test-data/studentsbillofrights-com.json",
-        "siteDir": "/root/ai-famous/ai-famous/sites/studentsbillofrights.com"
+        "siteDir": "/root/ai-famous/ai-famous/sites/studentsbillofrights.com",
+        "publishedDate": "May 11, 2013"
     },
     {
         "title": "The Noble Lie",
         "url": "https://www.stevehargadon.com/2025/09/the-noble-lie-of-modern-schooling-how.html",
         "domain": "thenoblelie.org",
         "description": "The Noble Lie",
-        "status": "generated"
+        "status": "generated",
+        "publishedDate": "September 10, 2025"
     },
     {
         "title": "Thinking About Thinking in the Age of AI",
         "url": "https://www.stevehargadon.com/2025/10/thinking-about-thinking-in-age-of-ai.html",
         "domain": "thinkingaboutthinking.com",
         "description": "Thinking About Thinking in the Age of AI",
-        "status": "generated"
+        "status": "generated",
+        "publishedDate": "October 11, 2025"
     },
     {
         "title": "The Trust Crisis",
         "url": "https://www.stevehargadon.com/2025/09/the-trust-crisis.html",
         "domain": "trustcrisis.org",
         "description": "The Trust Crisis",
-        "status": "generated"
+        "status": "generated",
+        "publishedDate": "September 12, 2025"
     },
     {
         "title": "Chasing Shadows: Elon Musk's Quest for Truth and the Limits of Large Language Models",
@@ -226,14 +253,23 @@
         "status": "generated",
         "error": null,
         "contentFile": "/root/ai-famous/ai-famous/test-data/truthandai-com.json",
-        "siteDir": "/root/ai-famous/ai-famous/sites/truthandai.com"
+        "siteDir": "/root/ai-famous/ai-famous/sites/truthandai.com",
+        "publishedDate": "July 09, 2025"
     },
     {
         "title": "Unleashing Human Potential: One View of The AI Revolution",
         "url": "https://www.stevehargadon.com/2025/08/unleashing-human-potential-one-view-of.html",
         "domain": "unleashinghumanpotential.com",
         "description": "Unleashing Human Potential: One View of The AI Revolution",
-        "status": "generated"
+        "status": "generated",
+        "publishedDate": "August 10, 2025"
+    },
+    {
+        "title": "How to Read a Book (and More) With AI",
+        "url": "https://www.stevehargadon.com/2025/04/how-to-read-book-and-more-with-ai.html",
+        "domain": "howtoreadabook.com",
+        "publishedDate": "April 7, 2025",
+        "status": "deployed"
     }
 ];
   
@@ -262,11 +298,11 @@
     let html = '';
     otherSites.forEach(site => {
       html += `
-        <div class="site-card">
-          <h3><a href="${site.url}" target="_blank" rel="noopener">${site.title}</a></h3>
-          <p class="original-link"><a href="${site.url}" target="_blank" rel="noopener">Original Post</a></p>
-          <span class="domain"><a href="https://${site.domain}" target="_blank" rel="noopener">${site.domain}</a></span>
-        </div>
+        <a href="https://${site.domain}" class="site-card" target="_blank" rel="noopener">
+          <h3>${site.title}</h3>
+          <p>${site.description}</p>
+          <span class="domain">${site.domain}</span>
+        </a>
       `;
     });
     
