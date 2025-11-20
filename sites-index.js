@@ -264,7 +264,6 @@
       html += `
         <a href="${site.url}" class="site-card" target="_blank" rel="noopener">
           <h3>${site.title}</h3>
-          <p>${site.description}</p>
           <span class="domain">${site.domain}</span>
         </a>
       `;
