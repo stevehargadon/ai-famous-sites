@@ -262,10 +262,11 @@
     let html = '';
     otherSites.forEach(site => {
       html += `
-        <a href="${site.url}" class="site-card" target="_blank" rel="noopener">
-          <h3>${site.title}</h3>
-          <span class="domain">${site.domain}</span>
-        </a>
+        <div class="site-card">
+          <h3><a href="${site.url}" target="_blank" rel="noopener">${site.title}</a></h3>
+          <p class="original-link"><a href="${site.url}" target="_blank" rel="noopener">Original Post</a></p>
+          <span class="domain"><a href="https://${site.domain}" target="_blank" rel="noopener">${site.domain}</a></span>
+        </div>
       `;
     });
     
