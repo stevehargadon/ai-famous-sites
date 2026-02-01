@@ -3,14 +3,26 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-02-01T17:22:26.154320Z
- * Total sites: 24
+ * Last updated: 2026-02-01T18:25:00Z
+ * Total sites: 26
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "AI's Evolution: The Singularity Doesn't Require Consciousness",
+        "url": "https://www.stevehargadon.com/2026/02/ais-evolution-singularity-doesnt.html",
+        "domain": "evolutionofai.org",
+        "description": "AI's Evolution: The Singularity Doesn't Require Consciousness"
+    },
+    {
+        "title": "The AI Hole in the Wall Experiment: When the Machines Showed Us the Mirror",
+        "url": "https://www.stevehargadon.com/2026/01/the-ai-hole-in-wall-experiment-when.html",
+        "domain": "aiholeinthewall.com",
+        "description": "The AI Hole in the Wall Experiment: When the Machines Showed Us the Mirror"
+    },
     {
         "title": "LLM Cultural Censorship Is Corporate Risk Management",
         "url": "https://www.stevehargadon.com/2026/01/llm-cultural-censorship-is-corporate.html",
