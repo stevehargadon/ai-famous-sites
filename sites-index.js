@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-02-01T18:40:27.456Z
- * Total sites: 26
+ * Last updated: 2026-02-03T15:23:37.752Z
+ * Total sites: 27
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "What History Might Tell Us About Transformative Technologies, Huge Financial Investments, and How The AI Moment Might Play Out",
+        "url": "https://www.stevehargadon.com/2026/02/what-history-might-tell-us-about.html",
+        "domain": "theaibubble.org",
+        "description": "What History Might Tell Us About Transformative Technologies, Huge Financial Investments, and How The AI Moment Might Play Out"
+    },
     {
         "title": "AI's Evolution: The Singularity Doesn't Require Consciousness",
         "url": "https://www.stevehargadon.com/2026/02/ais-evolution-singularity-doesnt.html",
