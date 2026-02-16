@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-02-16T02:22:14.097Z
- * Total sites: 34
+ * Last updated: 2026-02-16T02:22:25.444Z
+ * Total sites: 35
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "Source Code of Humanity",
+        "url": "https://www.stevehargadon.com",
+        "domain": "sourcecodeofhumanity.com",
+        "description": "Source Code of Humanity"
+    },
     {
         "title": "Limits of AI",
         "url": "https://www.stevehargadon.com",
