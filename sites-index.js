@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-02-16T02:22:03.488Z
- * Total sites: 33
+ * Last updated: 2026-02-16T02:22:14.097Z
+ * Total sites: 34
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "Limits of AI",
+        "url": "https://www.stevehargadon.com",
+        "domain": "limitsofai.org",
+        "description": "Limits of AI"
+    },
     {
         "title": "Emergent Synthetic Intelligence",
         "url": "https://www.stevehargadon.com",
