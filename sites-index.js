@@ -3,7 +3,7 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-02-16T02:39:15.083Z
+ * Last updated: 2026-02-16T02:39:26.581Z
  * Total sites: 36
  */
 (function() {
@@ -54,10 +54,10 @@
         "description": "Conspiracy Reality"
     },
     {
-        "title": "AI for Diagnosis",
-        "url": "https://www.stevehargadon.com/2025/05/the-amazing-but-unsettling-value-of-ai.html",
-        "domain": "aifordiagnosis.org",
-        "description": "AI for Diagnosis"
+        "title": "AI and Ethics",
+        "url": "https://www.stevehargadon.com/2025/07/generative-ais-three-body-problem.html",
+        "domain": "aiandethics.org",
+        "description": "AI and Ethics"
     },
     {
         "title": "AI Scams: Why the Old Rules Don't Work Anymore (And What Does)",
