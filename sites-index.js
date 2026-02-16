@@ -3,7 +3,7 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-02-16T02:39:39.495Z
+ * Last updated: 2026-02-16T02:39:57.312Z
  * Total sites: 36
  */
 (function() {
@@ -42,10 +42,10 @@
         "description": "Emergent Synthetic Intelligence"
     },
     {
-        "title": "Education Reform",
-        "url": "http://www.stevehargadon.com/2015/05/shadows-on-wall-futility-of-ed-reform.html",
-        "domain": "educationreform.net",
-        "description": "Education Reform"
+        "title": "Conspiracy Reality",
+        "url": "https://www.stevehargadon.com/2025/10/the-pathologizing-of-pattern.html",
+        "domain": "conspiracyreality.org",
+        "description": "Conspiracy Reality"
     },
     {
         "title": "AI for Diagnosis",
