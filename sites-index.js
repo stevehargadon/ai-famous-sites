@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-02-16T02:21:32.546Z
- * Total sites: 30
+ * Last updated: 2026-02-16T02:21:42.731Z
+ * Total sites: 31
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "Conspiracy Reality",
+        "url": "https://www.stevehargadon.com",
+        "domain": "conspiracyreality.org",
+        "description": "Conspiracy Reality"
+    },
     {
         "title": "AI for Diagnosis",
         "url": "https://www.stevehargadon.com",
