@@ -3,8 +3,8 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-02-16T02:11:53.456Z
- * Total sites: 31
+ * Last updated: 2026-02-16T02:21:05.024Z
+ * Total sites: 28
  */
 (function() {
   'use strict';
@@ -16,12 +16,6 @@
         "url": "https://www.stevehargadon.com/2026/02/ai-scams-why-old-rules-dont-work.html",
         "domain": "protectingagainstaiscams.com",
         "description": "AI Scams: Why the Old Rules Don't Work Anymore (And What Does)"
-    },
-    {
-        "title": "What History Might Tell Us About Transformative Technologies, Huge Financial Investments, and How The AI Moment Might Play Out",
-        "url": "https://www.stevehargadon.com/2026/02/what-history-might-tell-us-about.html",
-        "domain": "theaibubble.org",
-        "description": "What History Might Tell Us About Transformative Technologies, Huge Financial Investments, and How The AI Moment Might Play Out"
     },
     {
         "title": "What History Might Tell Us About Transformative Technologies, Huge Financial Investments, and How The AI Moment Might Play Out",
@@ -162,12 +156,6 @@
         "description": "Generative Education"
     },
     {
-        "title": "Paradox of Education",
-        "url": "https://www.stevehargadon.com/2024/07/the-generative-approach-to-education.html",
-        "domain": "paradoxofeducation.com",
-        "description": "Paradox of Education"
-    },
-    {
         "title": "Levels of Learning",
         "url": "https://www.stevehargadon.com/2019/09/the-game-of-school.html",
         "domain": "levelsoflearning.com",
@@ -184,12 +172,6 @@
         "url": "https://www.stevehargadon.com/2015/08/conditions-of-learning-exercise.html",
         "domain": "conditionsoflearning.com",
         "description": "Conditions of Learning, 27 August 2015"
-    },
-    {
-        "title": "The Game of School and the Levels of Learning, 25 September 2019",
-        "url": "https://www.stevehargadon.com/2019/09/the-game-of-school.html",
-        "domain": "levelsoflearning.com",
-        "description": "The Game of School and the Levels of Learning, 25 September 2019"
     },
     {
         "title": "LLM Cultural Censorship Is Corporate Risk Management",
