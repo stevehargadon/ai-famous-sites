@@ -3,7 +3,7 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-02-16T02:40:40.319Z
+ * Last updated: 2026-02-16T02:40:51.156Z
  * Total sites: 36
  */
 (function() {
@@ -12,10 +12,10 @@
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
     {
-        "title": "Truth and AI",
-        "url": "https://www.stevehargadon.com/2025/07/chasing-shadows-elon-musks-quest-for.html",
-        "domain": "truthandai.com",
-        "description": "Truth and AI"
+        "title": "Student Bill of Rights",
+        "url": "http://www.stevehargadon.com/2013/05/a-student-bill-of-rights.html",
+        "domain": "studentsbillofrights.com",
+        "description": "Student Bill of Rights"
     },
     {
         "title": "Source Code of Humanity",
