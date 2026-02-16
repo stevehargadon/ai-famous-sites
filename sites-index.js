@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-02-16T02:22:25.444Z
- * Total sites: 35
+ * Last updated: 2026-02-16T02:22:35.782Z
+ * Total sites: 36
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "Student Bill of Rights",
+        "url": "https://www.stevehargadon.com",
+        "domain": "studentsbillofrights.com",
+        "description": "Student Bill of Rights"
+    },
     {
         "title": "Source Code of Humanity",
         "url": "https://www.stevehargadon.com",
