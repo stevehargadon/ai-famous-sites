@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-02-16T02:21:53.117Z
- * Total sites: 32
+ * Last updated: 2026-02-16T02:22:03.488Z
+ * Total sites: 33
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "Emergent Synthetic Intelligence",
+        "url": "https://www.stevehargadon.com",
+        "domain": "emergentsyntheticintelligence.com",
+        "description": "Emergent Synthetic Intelligence"
+    },
     {
         "title": "Education Reform",
         "url": "https://www.stevehargadon.com",
