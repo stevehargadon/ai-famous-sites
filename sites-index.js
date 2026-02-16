@@ -3,7 +3,7 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-02-16T02:39:26.581Z
+ * Last updated: 2026-02-16T02:39:39.495Z
  * Total sites: 36
  */
 (function() {
@@ -48,10 +48,10 @@
         "description": "Education Reform"
     },
     {
-        "title": "Conspiracy Reality",
-        "url": "https://www.stevehargadon.com/2025/10/the-pathologizing-of-pattern.html",
-        "domain": "conspiracyreality.org",
-        "description": "Conspiracy Reality"
+        "title": "AI for Diagnosis",
+        "url": "https://www.stevehargadon.com/2025/05/the-amazing-but-unsettling-value-of-ai.html",
+        "domain": "aifordiagnosis.org",
+        "description": "AI for Diagnosis"
     },
     {
         "title": "AI and Ethics",
