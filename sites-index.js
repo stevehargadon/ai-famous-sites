@@ -3,7 +3,7 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-02-16T02:22:35.782Z
+ * Last updated: 2026-02-16T02:35:38.610Z
  * Total sites: 36
  */
 (function() {
@@ -12,26 +12,32 @@
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
     {
+        "title": "Truth and AI",
+        "url": "https://www.stevehargadon.com/2025/07/chasing-shadows-elon-musks-quest-for.html",
+        "domain": "truthandai.com",
+        "description": "Truth and AI"
+    },
+    {
         "title": "Student Bill of Rights",
-        "url": "https://www.stevehargadon.com",
+        "url": "http://www.stevehargadon.com/2013/05/a-student-bill-of-rights.html",
         "domain": "studentsbillofrights.com",
         "description": "Student Bill of Rights"
     },
     {
         "title": "Source Code of Humanity",
-        "url": "https://www.stevehargadon.com",
+        "url": "https://www.stevehargadon.com/2025/10/the-source-code-of-human-civilization.html",
         "domain": "sourcecodeofhumanity.com",
         "description": "Source Code of Humanity"
     },
     {
         "title": "Limits of AI",
-        "url": "https://www.stevehargadon.com",
+        "url": "https://www.stevehargadon.com/2025/05/the-zika-virus-and-limitations-of-ai.html",
         "domain": "limitsofai.org",
         "description": "Limits of AI"
     },
     {
         "title": "Emergent Synthetic Intelligence",
-        "url": "https://www.stevehargadon.com",
+        "url": "https://www.stevehargadon.com/2025/04/is-emergent-synthetic-intelligence.html",
         "domain": "emergentsyntheticintelligence.com",
         "description": "Emergent Synthetic Intelligence"
     },
@@ -52,12 +58,6 @@
         "url": "https://www.stevehargadon.com",
         "domain": "aifordiagnosis.org",
         "description": "AI for Diagnosis"
-    },
-    {
-        "title": "AI and Ethics",
-        "url": "https://www.stevehargadon.com",
-        "domain": "aiandethics.org",
-        "description": "AI and Ethics"
     },
     {
         "title": "AI Scams: Why the Old Rules Don't Work Anymore (And What Does)",
