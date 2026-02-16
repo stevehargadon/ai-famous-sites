@@ -3,7 +3,7 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-02-16T02:36:34.640Z
+ * Last updated: 2026-02-16T02:36:46.316Z
  * Total sites: 36
  */
 (function() {
@@ -24,10 +24,10 @@
         "description": "Student Bill of Rights"
     },
     {
-        "title": "Source Code of Humanity",
-        "url": "https://www.stevehargadon.com/2025/10/the-source-code-of-human-civilization.html",
-        "domain": "sourcecodeofhumanity.com",
-        "description": "Source Code of Humanity"
+        "title": "Limits of AI",
+        "url": "https://www.stevehargadon.com/2025/05/the-zika-virus-and-limitations-of-ai.html",
+        "domain": "limitsofai.org",
+        "description": "Limits of AI"
     },
     {
         "title": "Emergent Synthetic Intelligence",
