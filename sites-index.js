@@ -3,14 +3,26 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-02-03T15:23:37.752Z
- * Total sites: 27
+ * Last updated: 2026-02-16T02:11:53.456Z
+ * Total sites: 31
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "AI Scams: Why the Old Rules Don't Work Anymore (And What Does)",
+        "url": "https://www.stevehargadon.com/2026/02/ai-scams-why-old-rules-dont-work.html",
+        "domain": "protectingagainstaiscams.com",
+        "description": "AI Scams: Why the Old Rules Don't Work Anymore (And What Does)"
+    },
+    {
+        "title": "What History Might Tell Us About Transformative Technologies, Huge Financial Investments, and How The AI Moment Might Play Out",
+        "url": "https://www.stevehargadon.com/2026/02/what-history-might-tell-us-about.html",
+        "domain": "theaibubble.org",
+        "description": "What History Might Tell Us About Transformative Technologies, Huge Financial Investments, and How The AI Moment Might Play Out"
+    },
     {
         "title": "What History Might Tell Us About Transformative Technologies, Huge Financial Investments, and How The AI Moment Might Play Out",
         "url": "https://www.stevehargadon.com/2026/02/what-history-might-tell-us-about.html",
@@ -82,6 +94,18 @@
         "url": "https://www.stevehargadon.com/2025/08/unleashing-human-potential-one-view-of.html",
         "domain": "unleashinghumanpotential.com",
         "description": "Unleashing Human Potential: One View of The AI Revolution"
+    },
+    {
+        "title": "Libraries and AI Webinar Recording and Report",
+        "url": "https://www.stevehargadon.com/2025/06/libraries-and-ai-webinar-recording-and.html",
+        "domain": "librariesandai.com",
+        "description": "Libraries and AI Webinar Recording and Report"
+    },
+    {
+        "title": "Students and AI Webinar Report",
+        "url": "https://www.stevehargadon.com/2025/06/students-and-ai-webinar-report.html",
+        "domain": "studentsandai.com",
+        "description": "Students and AI Webinar Report"
     },
     {
         "title": "The Paleolithic Paradox: Why AI Is Not Like Us",
