@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-02-16T02:21:05.024Z
- * Total sites: 28
+ * Last updated: 2026-02-16T02:21:22.152Z
+ * Total sites: 29
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "AI and Ethics",
+        "url": "https://www.stevehargadon.com",
+        "domain": "aiandethics.org",
+        "description": "AI and Ethics"
+    },
     {
         "title": "AI Scams: Why the Old Rules Don't Work Anymore (And What Does)",
         "url": "https://www.stevehargadon.com/2026/02/ai-scams-why-old-rules-dont-work.html",
