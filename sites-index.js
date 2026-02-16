@@ -3,7 +3,7 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-02-16T02:35:38.610Z
+ * Last updated: 2026-02-16T02:35:49.528Z
  * Total sites: 36
  */
 (function() {
@@ -54,10 +54,10 @@
         "description": "Conspiracy Reality"
     },
     {
-        "title": "AI for Diagnosis",
+        "title": "AI and Ethics",
         "url": "https://www.stevehargadon.com",
-        "domain": "aifordiagnosis.org",
-        "description": "AI for Diagnosis"
+        "domain": "aiandethics.org",
+        "description": "AI and Ethics"
     },
     {
         "title": "AI Scams: Why the Old Rules Don't Work Anymore (And What Does)",
