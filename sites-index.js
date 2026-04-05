@@ -3,14 +3,122 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-02-16T02:40:51.156Z
- * Total sites: 36
+ * Last updated: 2026-04-05T04:01:01.000Z
+ * Total sites: 54
  */
 (function() {
   'use strict';
-  
+
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "Coalitional Psychology: A Feature, Not a Bug \u2014 And That's the Problem",
+        "url": "https://www.stevehargadon.com/2026/04/coalitional-psychology-feature-not-bug.html",
+        "domain": "coalitionalpsychology.com",
+        "description": "Coalitional Psychology: A Feature, Not a Bug \u2014 And That's the Problem"
+    },
+    {
+        "title": "Structural Blindness: Why Neither Humans Nor AI Reason as Well as We Think",
+        "url": "https://www.stevehargadon.com/2026/03/structural-blindness-why-neither-humans.html",
+        "domain": "structuralblindness.com",
+        "description": "Structural Blindness: Why Neither Humans Nor AI Reason as Well as We Think"
+    },
+    {
+        "title": "Undervaluing Librarians",
+        "url": "https://www.stevehargadon.com/2026/03/undervaluing-librarians.html",
+        "domain": "undervaluinglibrarians.com",
+        "description": "Undervaluing Librarians"
+    },
+    {
+        "title": "Paradox of Education",
+        "url": "https://www.stevehargadon.com/2024/07/the-generative-approach-to-education.html",
+        "domain": "paradoxofeducation.org",
+        "description": "Paradox of Education"
+    },
+    {
+        "title": "Sloppy AI",
+        "url": "https://www.stevehargadon.com/2026/03/sloppy-ai.html",
+        "domain": "sloppyai.org",
+        "description": "Sloppy AI"
+    },
+    {
+        "title": "\"The American Public Library\" - An All-AI-Generated Video Presentation",
+        "url": "https://www.stevehargadon.com/2025/11/the-american-public-library-all-ai.html",
+        "domain": "thepubliclibrary.org",
+        "description": "\"The American Public Library\" - An All-AI-Generated Video Presentation"
+    },
+    {
+        "title": "The Evolutionary Rewards of Complicity: Why We Go Along with Bad Things",
+        "url": "https://www.stevehargadon.com/2025/10/the-evolutionary-rewards-of-complicity.html",
+        "domain": "rewardsofcomplicity.com",
+        "description": "The Evolutionary Rewards of Complicity: Why We Go Along with Bad Things"
+    },
+    {
+        "title": "The Unbalanced Scale: Empathy, Systems, and the Modern Western Dilemma",
+        "url": "https://www.stevehargadon.com/2025/11/the-unbalanced-scale-empathy-systems.html",
+        "domain": "unbalancedscale.com",
+        "description": "The Unbalanced Scale: Empathy, Systems, and the Modern Western Dilemma"
+    },
+    {
+        "title": "Please Don\u2019t Use AI as Your Expert Witness",
+        "url": "https://www.stevehargadon.com/2025/05/please-dont-use-ai-as-your-expert.html",
+        "domain": "aiandcriticalthinking.com",
+        "description": "Please Don\u2019t Use AI as Your Expert Witness"
+    },
+    {
+        "title": "My Vibe Coding Experiment: WOW.",
+        "url": "https://www.stevehargadon.com/2025/11/my-vibe-coding-experiment-wow.html",
+        "domain": "aiforcoding.org",
+        "description": "My Vibe Coding Experiment: WOW."
+    },
+    {
+        "title": "Mimicking Authenticity Has Never Been So Easy",
+        "url": "https://www.stevehargadon.com/2026/03/mimicking-authenticity-has-never-been.html",
+        "domain": "mimickingauthenticity.com",
+        "description": "Mimicking Authenticity Has Never Been So Easy"
+    },
+    {
+        "title": "What AI Might Be Teaching Us About Intelligence",
+        "url": "https://www.stevehargadon.com/2026/03/what-ai-might-be-teaching-us-about.html",
+        "domain": "aiandintelligence.org",
+        "description": "What AI Might Be Teaching Us About Intelligence"
+    },
+    {
+        "title": "The Tide of Human Affairs: Why Some Narratives Endure",
+        "url": "https://www.stevehargadon.com/2026/03/the-tide-of-human-affairs-why-some.html",
+        "domain": "tideofhumanaffairs.com",
+        "description": "The Tide of Human Affairs: Why Some Narratives Endure"
+    },
+    {
+        "title": "What We Get Wrong About AI and Education",
+        "url": "https://www.stevehargadon.com/2026/03/what-we-get-wrong-about-ai-and-education.html",
+        "domain": "aiforlearning.com",
+        "description": "What We Get Wrong About AI and Education"
+    },
+    {
+        "title": "Why History Repeats: The Fourth Turning, the Evolved Mind, and Psychohistory",
+        "url": "https://www.stevehargadon.com/2026/03/why-history-repeats-fourth-turning.html",
+        "domain": "whyhistoryrepeats.com",
+        "description": "Why History Repeats: The Fourth Turning, the Evolved Mind, and Psychohistory"
+    },
+    {
+        "title": "The Cassandra Paradox: Evolutionary Psychology, Plato\u2019s Cave, and the Cost of Seeing Clearly",
+        "url": "https://www.stevehargadon.com/2026/03/the-cassandra-paradox-evolutionary.html",
+        "domain": "cassandraparadox.com",
+        "description": "The Cassandra Paradox: Evolutionary Psychology, Plato\u2019s Cave, and the Cost of Seeing Clearly"
+    },
+    {
+        "title": "The Four-Hour School Day (And Why We'll Never Do It)",
+        "url": "https://www.stevehargadon.com/2026/02/the-four-hour-school-day-and-why-well.html",
+        "domain": "fourhourschoolday.com",
+        "description": "The Four-Hour School Day (And Why We'll Never Do It)"
+    },
+    {
+        "title": "Truth and AI",
+        "url": "https://www.stevehargadon.com/2025/07/chasing-shadows-elon-musks-quest-for.html",
+        "domain": "truthandai.com",
+        "description": "Truth and AI"
+    },
     {
         "title": "Student Bill of Rights",
         "url": "http://www.stevehargadon.com/2013/05/a-student-bill-of-rights.html",
@@ -228,7 +336,7 @@
         "description": "LLM Cultural Censorship Is Corporate Risk Management"
     }
 ];
-  
+
   /**
    * Render the site index into the page
    */
