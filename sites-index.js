@@ -3,19 +3,19 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-04-05T04:01:01.000Z
+ * Last updated: 2026-04-05T04:23:16.346Z
  * Total sites: 54
  */
 (function() {
   'use strict';
-
+  
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
     {
-        "title": "Coalitional Psychology: A Feature, Not a Bug \u2014 And That's the Problem",
+        "title": "Coalitional Psychology: A Feature, Not a Bug — And That's the Problem",
         "url": "https://www.stevehargadon.com/2026/04/coalitional-psychology-feature-not-bug.html",
         "domain": "coalitionalpsychology.com",
-        "description": "Coalitional Psychology: A Feature, Not a Bug \u2014 And That's the Problem"
+        "description": "Coalitional Psychology: A Feature, Not a Bug — And That's the Problem"
     },
     {
         "title": "Structural Blindness: Why Neither Humans Nor AI Reason as Well as We Think",
@@ -60,10 +60,10 @@
         "description": "The Unbalanced Scale: Empathy, Systems, and the Modern Western Dilemma"
     },
     {
-        "title": "Please Don\u2019t Use AI as Your Expert Witness",
+        "title": "Please Don’t Use AI as Your Expert Witness",
         "url": "https://www.stevehargadon.com/2025/05/please-dont-use-ai-as-your-expert.html",
         "domain": "aiandcriticalthinking.com",
-        "description": "Please Don\u2019t Use AI as Your Expert Witness"
+        "description": "Please Don’t Use AI as Your Expert Witness"
     },
     {
         "title": "My Vibe Coding Experiment: WOW.",
@@ -102,10 +102,10 @@
         "description": "Why History Repeats: The Fourth Turning, the Evolved Mind, and Psychohistory"
     },
     {
-        "title": "The Cassandra Paradox: Evolutionary Psychology, Plato\u2019s Cave, and the Cost of Seeing Clearly",
+        "title": "The Cassandra Paradox: Evolutionary Psychology, Plato’s Cave, and the Cost of Seeing Clearly",
         "url": "https://www.stevehargadon.com/2026/03/the-cassandra-paradox-evolutionary.html",
         "domain": "cassandraparadox.com",
-        "description": "The Cassandra Paradox: Evolutionary Psychology, Plato\u2019s Cave, and the Cost of Seeing Clearly"
+        "description": "The Cassandra Paradox: Evolutionary Psychology, Plato’s Cave, and the Cost of Seeing Clearly"
     },
     {
         "title": "The Four-Hour School Day (And Why We'll Never Do It)",
@@ -336,7 +336,7 @@
         "description": "LLM Cultural Censorship Is Corporate Risk Management"
     }
 ];
-
+  
   /**
    * Render the site index into the page
    */
