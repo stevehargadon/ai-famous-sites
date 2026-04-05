@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-04-05T21:51:18.741Z
- * Total sites: 54
+ * Last updated: 2026-04-05T21:53:00.410Z
+ * Total sites: 55
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "Dear Student: What School Can't Tell You About AI",
+        "url": "https://www.stevehargadon.com/2026/04/dear-student-what-school-cant-tell-you.html",
+        "domain": "schoolingandai.com",
+        "description": "Dear Student: What School Can't Tell You About AI"
+    },
     {
         "title": "Coalitional Psychology: A Feature, Not a Bug — And That's the Problem",
         "url": "https://www.stevehargadon.com/2026/04/coalitional-psychology-feature-not-bug.html",
