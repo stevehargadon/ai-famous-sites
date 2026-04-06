@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-04-06T14:02:36.010Z
- * Total sites: 56
+ * Last updated: 2026-04-06T15:49:03.458Z
+ * Total sites: 57
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "Levels of Thinking",
+        "url": "https://www.stevehargadon.com/2026/04/levels-of-thinking.html",
+        "domain": "levelsofthinking.org",
+        "description": "Levels of Thinking"
+    },
     {
         "title": "Understanding the Context Window: The Illusion of Continuity",
         "url": "https://www.stevehargadon.com/2026/04/understanding-context-window-illusion.html",
