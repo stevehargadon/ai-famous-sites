@@ -3,7 +3,7 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-04-06T15:49:03.458Z
+ * Last updated: 2026-04-06T22:32:51.434Z
  * Total sites: 57
  */
 (function() {
@@ -24,10 +24,10 @@
         "description": "Understanding the Context Window: The Illusion of Continuity"
     },
     {
-        "title": "Dear Student: What School Can't Tell You About AI",
+        "title": "Dear Student: What School Can't Teach You About AI",
         "url": "https://www.stevehargadon.com/2026/04/dear-student-what-school-cant-tell-you.html",
         "domain": "schoolingandai.com",
-        "description": "Dear Student: What School Can't Tell You About AI"
+        "description": "Dear Student: What School Can't Teach You About AI"
     },
     {
         "title": "Coalitional Psychology: A Feature, Not a Bug — And That's the Problem",
