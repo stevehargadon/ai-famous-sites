@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-04-06T02:31:05.834Z
- * Total sites: 55
+ * Last updated: 2026-04-06T14:02:36.010Z
+ * Total sites: 56
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "Understanding the Context Window: The Illusion of Continuity",
+        "url": "https://www.stevehargadon.com/2026/04/understanding-context-window-illusion.html",
+        "domain": "illusionofcontinuity.com",
+        "description": "Understanding the Context Window: The Illusion of Continuity"
+    },
     {
         "title": "Dear Student: What School Can't Tell You About AI",
         "url": "https://www.stevehargadon.com/2026/04/dear-student-what-school-cant-tell-you.html",
