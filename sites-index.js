@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-04-07T22:04:32.727Z
- * Total sites: 57
+ * Last updated: 2026-04-07T22:17:03.481Z
+ * Total sites: 58
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "Understanding Humanity: What AI Training Data Reveals About Human Nature (with lots of help from Claude)",
+        "url": "https://www.stevehargadon.com/2026/04/understanding-humanity-what-ai-training.html",
+        "domain": "understandinghumanity.org",
+        "description": "Understanding Humanity: What AI Training Data Reveals About Human Nature (with lots of help from Claude)"
+    },
     {
         "title": "Levels of Thinking",
         "url": "https://www.stevehargadon.com/2026/04/levels-of-thinking.html",
