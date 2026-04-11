@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-04-11T00:49:43.227Z
- * Total sites: 58
+ * Last updated: 2026-04-11T00:55:07.492Z
+ * Total sites: 59
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "Programmed for Approval",
+        "url": "https://www.stevehargadon.com/2026/04/programmed-for-approval.html",
+        "domain": "programmedforapproval.com",
+        "description": "Programmed for Approval"
+    },
     {
         "title": "Understanding Humanity: What AI Training Data Reveals About Human Nature (with lots of help from Claude)",
         "url": "https://www.stevehargadon.com/2026/04/understanding-humanity-what-ai-training.html",
