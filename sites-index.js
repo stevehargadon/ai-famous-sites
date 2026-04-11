@@ -3,8 +3,8 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-04-11T00:55:07.492Z
- * Total sites: 59
+ * Last updated: 2026-04-11T21:20:50.608Z
+ * Total sites: 60
  */
 (function() {
   'use strict';
@@ -364,6 +364,12 @@
         "url": "https://www.stevehargadon.com/2026/01/llm-cultural-censorship-is-corporate.html",
         "domain": "culturalcensorship.com",
         "description": "LLM Cultural Censorship Is Corporate Risk Management"
+    },
+    {
+        "title": "Understanding the Human Condition: Using LLMs to Explore What the Human Record Reveals About Us",
+        "url": "https://www.stevehargadon.com/2026/04/understanding-human-condition-using.html",
+        "domain": "understandingthehumancondition.com/understanding-the-human-condition-using-llms-to-explore-what-the-human-record-re",
+        "description": "Exploring the human condition through the unique vantage point that large language models provide"
     }
 ];
   
@@ -379,9 +385,19 @@
     
     // Get current domain to exclude it from the list
     const currentDomain = window.location.hostname;
+    const currentPath = window.location.pathname;
     
     // Filter out the current site
-    const otherSites = sites.filter(site => !currentDomain.includes(site.domain));
+    const otherSites = sites.filter(site => {
+      // For multi-page sites (domain contains /), check both domain and path
+      if (site.domain.includes('/')) {
+        const parts = site.domain.split('/');
+        const siteDomain = parts[0];
+        const sitePath = '/' + parts.slice(1).join('/') + '/';
+        return !(currentDomain === siteDomain && currentPath.startsWith(sitePath));
+      }
+      return !currentDomain.includes(site.domain);
+    });
     
     if (otherSites.length === 0) {
       container.innerHTML = '<p class="no-sites">More topics coming soon...</p>';
@@ -391,10 +407,12 @@
     // Build the HTML
     let html = '';
     otherSites.forEach(site => {
-      html += '<a href="https://' + site.domain + '" class="site-card" target="_blank" rel="noopener">' +
+      const href = site.domain.includes('/') ? 'https://' + site.domain + '/' : 'https://' + site.domain;
+      const displayDomain = site.domain.includes('/') ? site.domain.split('/')[0] : site.domain;
+      html += '<a href="' + href + '" class="site-card" target="_blank" rel="noopener">' +
         '<h3>' + site.title + '</h3>' +
         '<p>' + site.description + '</p>' +
-        '<span class="domain">' + site.domain + '</span>' +
+        '<span class="domain">' + displayDomain + '</span>' +
         '</a>';
     });
     
