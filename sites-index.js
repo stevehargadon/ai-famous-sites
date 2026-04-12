@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-04-12T17:22:34.011Z
- * Total sites: 62
+ * Last updated: 2026-04-12T17:35:08.085Z
+ * Total sites: 63
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "Science Fiction and AI: What the Stories Reveal About Us",
+        "url": "https://www.stevehargadon.com/2026/04/science-fiction-and-ai-what-stories.html",
+        "domain": "aithroughscifi.com",
+        "description": "Science Fiction and AI: What the Stories Reveal About Us"
+    },
     {
         "title": "Programmed for Approval",
         "url": "https://www.stevehargadon.com/2026/04/programmed-for-approval.html",
