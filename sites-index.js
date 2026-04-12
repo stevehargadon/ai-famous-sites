@@ -3,8 +3,8 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-04-12T16:28:07.954Z
- * Total sites: 61
+ * Last updated: 2026-04-12T17:22:34.011Z
+ * Total sites: 62
  */
 (function() {
   'use strict';
@@ -364,6 +364,12 @@
         "url": "https://www.stevehargadon.com/2026/01/llm-cultural-censorship-is-corporate.html",
         "domain": "culturalcensorship.com",
         "description": "LLM Cultural Censorship Is Corporate Risk Management"
+    },
+    {
+        "title": "Understanding the Human Condition 2: \"The Altruism Display: Generosity, Signaling, and the Sincerity Mechanism\"",
+        "url": "https://www.stevehargadon.com/2026/04/understanding-human-condition-2.html",
+        "domain": "understandingthehumancondition.com/understanding-the-human-condition-2-the-altruism-display-generosity-signaling-an",
+        "description": "Understanding the Human Condition 2: \"The Altruism Display: Generosity, Signaling, and the Sincerity Mechanism\""
     },
     {
         "title": "Understanding the Human Condition 1: \"The Hierarchy That Must Be Denied\"",
