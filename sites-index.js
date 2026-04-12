@@ -3,8 +3,8 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-04-11T23:00:40.817Z
- * Total sites: 60
+ * Last updated: 2026-04-12T16:28:07.954Z
+ * Total sites: 61
  */
 (function() {
   'use strict';
@@ -364,6 +364,12 @@
         "url": "https://www.stevehargadon.com/2026/01/llm-cultural-censorship-is-corporate.html",
         "domain": "culturalcensorship.com",
         "description": "LLM Cultural Censorship Is Corporate Risk Management"
+    },
+    {
+        "title": "Understanding the Human Condition 1: \"The Hierarchy That Must Be Denied\"",
+        "url": "https://www.stevehargadon.com/2026/04/understanding-human-condition-1.html",
+        "domain": "understandingthehumancondition.com/understanding-the-human-condition-1-the-hierarchy-that-must-be-denied",
+        "description": "Understanding the Human Condition 1: \"The Hierarchy That Must Be Denied\""
     },
     {
         "title": "Understanding the Human Condition: Using LLMs to Explore What the Human Record Reveals About Us",
