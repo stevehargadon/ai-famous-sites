@@ -3,8 +3,8 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-04-12T18:14:03.999Z
- * Total sites: 63
+ * Last updated: 2026-04-13T14:16:19.598Z
+ * Total sites: 64
  */
 (function() {
   'use strict';
@@ -370,6 +370,12 @@
         "url": "https://www.stevehargadon.com/2026/01/llm-cultural-censorship-is-corporate.html",
         "domain": "culturalcensorship.com",
         "description": "LLM Cultural Censorship Is Corporate Risk Management"
+    },
+    {
+        "title": "The Impact of AI: Using the \"Functional Fictions\" Framework for Predicting Where AI Disrupts and Where It Doesn't",
+        "url": "https://www.stevehargadon.com/2026/04/the-impact-of-ai-using-functional.html",
+        "domain": "understandingthehumancondition.com/the-impact-of-ai-using-the-functional-fictions-framework-for-predicting-where-ai",
+        "description": "The Impact of AI: Using the \"Functional Fictions\" Framework for Predicting Where AI Disrupts and Where It Doesn't"
     },
     {
         "title": "Understanding the Human Condition 2: \"The Altruism Display: Generosity, Signaling, and the Sincerity Mechanism\"",
