@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-04-13T21:13:08.019Z
- * Total sites: 64
+ * Last updated: 2026-04-17T13:40:00.991Z
+ * Total sites: 65
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "The Levels of Thinking, Part II",
+        "url": "https://www.stevehargadon.com/2026/04/the-levels-of-thinking-part-ii.html",
+        "domain": "thelevelsofthinking.com",
+        "description": "The Levels of Thinking, Part II"
+    },
     {
         "title": "Science Fiction and AI: What the Stories Reveal About Us",
         "url": "https://www.stevehargadon.com/2026/04/science-fiction-and-ai-what-stories.html",
