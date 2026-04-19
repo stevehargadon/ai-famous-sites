@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-04-18T16:20:25.637Z
- * Total sites: 66
+ * Last updated: 2026-04-19T19:54:12.295Z
+ * Total sites: 67
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "Iatrogenesis",
+        "url": "https://www.stevehargadon.com/2026/04/iatrogenesis.html",
+        "domain": "iatrogenesis.net",
+        "description": "Iatrogenesis"
+    },
     {
         "title": "Behavior Shaping (and AI, of Course)",
         "url": "https://www.stevehargadon.com/2026/04/behavior-shaping-and-of-course-ai.html",
