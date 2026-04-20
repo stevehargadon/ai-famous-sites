@@ -3,8 +3,8 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-04-20T14:55:30.789Z
- * Total sites: 71
+ * Last updated: 2026-04-20T15:07:05.386Z
+ * Total sites: 72
  */
 (function() {
   'use strict';
@@ -406,6 +406,12 @@
         "url": "https://www.stevehargadon.com/2026/01/llm-cultural-censorship-is-corporate.html",
         "domain": "culturalcensorship.com",
         "description": "LLM Cultural Censorship Is Corporate Risk Management"
+    },
+    {
+        "title": "Understanding the Human Condition 4: \"The Enemy Who Completes Us\"",
+        "url": "https://www.stevehargadon.com/2026/04/understanding-human-condition-4-enemy.html",
+        "domain": "understandingthehumancondition.com/understanding-the-human-condition-4-the-enemy-who-completes-us",
+        "description": "Understanding the Human Condition 4: \"The Enemy Who Completes Us\""
     },
     {
         "title": "Understanding the Human Condition 3: \"The Innocence Behind Us\"",
