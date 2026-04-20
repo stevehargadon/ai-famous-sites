@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-04-19T19:54:12.295Z
- * Total sites: 67
+ * Last updated: 2026-04-20T02:14:45.544Z
+ * Total sites: 68
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "Structural Victim Blaming",
+        "url": "https://www.stevehargadon.com/2026/04/structural-victim-blaming.html",
+        "domain": "structuralvictimblaming.com",
+        "description": "Structural Victim Blaming"
+    },
     {
         "title": "Iatrogenesis",
         "url": "https://www.stevehargadon.com/2026/04/iatrogenesis.html",
