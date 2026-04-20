@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-04-20T02:14:45.544Z
- * Total sites: 68
+ * Last updated: 2026-04-20T13:56:54.993Z
+ * Total sites: 69
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "Realmotiv",
+        "url": "https://www.stevehargadon.com/2026/04/realmotiv.html",
+        "domain": "realmotiv.com",
+        "description": "Realmotiv"
+    },
     {
         "title": "Structural Victim Blaming",
         "url": "https://www.stevehargadon.com/2026/04/structural-victim-blaming.html",
