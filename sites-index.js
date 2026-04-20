@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-04-20T13:56:54.993Z
- * Total sites: 69
+ * Last updated: 2026-04-20T14:55:30.789Z
+ * Total sites: 71
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "The Adaptive Mind",
+        "url": "https://www.stevehargadon.com/2026/04/the-adaptive-mind.html",
+        "domain": "ouradaptivemind.com",
+        "description": "The Adaptive Mind"
+    },
     {
         "title": "Realmotiv",
         "url": "https://www.stevehargadon.com/2026/04/realmotiv.html",
@@ -400,6 +406,12 @@
         "url": "https://www.stevehargadon.com/2026/01/llm-cultural-censorship-is-corporate.html",
         "domain": "culturalcensorship.com",
         "description": "LLM Cultural Censorship Is Corporate Risk Management"
+    },
+    {
+        "title": "Understanding the Human Condition 3: \"The Innocence Behind Us\"",
+        "url": "https://www.stevehargadon.com/2026/04/understanding-human-condition-3.html",
+        "domain": "understandingthehumancondition.com/understanding-the-human-condition-3-the-innocence-behind-us",
+        "description": "Understanding the Human Condition 3: \"The Innocence Behind Us\""
     },
     {
         "title": "The Impact of AI: Using the \"Functional Fictions\" Framework for Predicting Where AI Disrupts and Where It Doesn't",
