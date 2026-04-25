@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-04-25T04:22:02.424Z
- * Total sites: 73
+ * Last updated: 2026-04-25T20:24:25.245Z
+ * Total sites: 74
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "The Law of Inevitable Exploitation (L.I.E)",
+        "url": "https://www.stevehargadon.com/2026/04/the-law-of-inevitable-exploitation-lie.html",
+        "domain": "lawofinevitableexploitation.com",
+        "description": "The Law of Inevitable Exploitation (L.I.E)"
+    },
     {
         "title": "The Inevitable Evolution of the Library and What It Might Mean for the Choices Librarians Will Face",
         "url": "https://www.stevehargadon.com/2026/04/the-inevitable-evolution-of-library-and.html",
