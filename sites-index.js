@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-04-25T20:25:16.838Z
- * Total sites: 75
+ * Last updated: 2026-04-28T16:30:26.135Z
+ * Total sites: 76
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "Our Performative Lives",
+        "url": "https://www.stevehargadon.com/2026/04/our-performative-lives.html",
+        "domain": "ourperformativelives.com",
+        "description": "Our Performative Lives"
+    },
     {
         "title": "Intellectual Capture",
         "url": "https://www.stevehargadon.com/2026/04/intellectual-capture.html",
