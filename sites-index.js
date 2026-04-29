@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-04-28T16:30:26.135Z
- * Total sites: 76
+ * Last updated: 2026-04-29T18:16:52.203Z
+ * Total sites: 78
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "The Separated Mind: The Why of Human History",
+        "url": "https://www.stevehargadon.com/2026/04/the-separated-mind-why-of-human-history.html",
+        "domain": "separatedmind.com",
+        "description": "The Separated Mind: The Why of Human History"
+    },
     {
         "title": "Our Performative Lives",
         "url": "https://www.stevehargadon.com/2026/04/our-performative-lives.html",
@@ -430,6 +436,12 @@
         "url": "https://www.stevehargadon.com/2026/01/llm-cultural-censorship-is-corporate.html",
         "domain": "culturalcensorship.com",
         "description": "LLM Cultural Censorship Is Corporate Risk Management"
+    },
+    {
+        "title": "The Separated Mind: The Why of Human History",
+        "url": "https://www.stevehargadon.com/2026/04/the-separated-mind-why-of-human-history.html",
+        "domain": "understandingthehumancondition.com/the-separated-mind-the-why-of-human-history",
+        "description": "The Separated Mind: The Why of Human History"
     },
     {
         "title": "Understanding the Human Condition 4: \"The Enemy Who Completes Us\"",
