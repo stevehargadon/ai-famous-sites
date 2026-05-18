@@ -3,14 +3,38 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-04-29T18:16:52.203Z
- * Total sites: 78
+ * Last updated: 2026-05-18T13:31:44.838Z
+ * Total sites: 83
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "Productive Alignment: Understanding Human Wisdom",
+        "url": "https://www.stevehargadon.com/2026/05/productive-alignment-understanding.html",
+        "domain": "productivealignment.com",
+        "description": "Productive Alignment: Understanding Human Wisdom"
+    },
+    {
+        "title": "Model Choice as Model Capture",
+        "url": "https://www.stevehargadon.com/2026/05/model-choice-as-model-capture.html",
+        "domain": "modelcapture.org",
+        "description": "Model Choice as Model Capture"
+    },
+    {
+        "title": "The Selfish Generation, or \"Advanced Generative Atrophy\"",
+        "url": "https://www.stevehargadon.com/2026/05/the-selfish-generation-or-advanced.html",
+        "domain": "selfishgeneration.org",
+        "description": "The Selfish Generation, or \"Advanced Generative Atrophy\""
+    },
+    {
+        "title": "Human Agency and the Separated Mind",
+        "url": "https://www.stevehargadon.com/2026/04/human-agency-and-separated-mind.html",
+        "domain": "agencyandevolution.com",
+        "description": "Human Agency and the Separated Mind"
+    },
     {
         "title": "The Separated Mind: The Why of Human History",
         "url": "https://www.stevehargadon.com/2026/04/the-separated-mind-why-of-human-history.html",
@@ -436,6 +460,12 @@
         "url": "https://www.stevehargadon.com/2026/01/llm-cultural-censorship-is-corporate.html",
         "domain": "culturalcensorship.com",
         "description": "LLM Cultural Censorship Is Corporate Risk Management"
+    },
+    {
+        "title": "Human Agency and the Separated Mind",
+        "url": "https://www.stevehargadon.com/2026/04/human-agency-and-separated-mind.html",
+        "domain": "understandingthehumancondition.com/human-agency-and-the-separated-mind",
+        "description": "Human Agency and the Separated Mind"
     },
     {
         "title": "The Separated Mind: The Why of Human History",
