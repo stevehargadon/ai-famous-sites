@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-05-26T03:04:01.894Z
- * Total sites: 84
+ * Last updated: 2026-05-26T15:30:15.200Z
+ * Total sites: 85
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "<li><a href='https://www.stevehargadon.com/2026/05/cognitive-sharpening-or-thinking-in.html'>Cognitive Sharpening, or Thinking in Conversation with AI</a></li>",
+        "url": "https://www.stevehargadon.com/2026/05/llms-and-protected-narratives.html",
+        "domain": "llmgatekeeping.com",
+        "description": "<li><a href='https://www.stevehargadon.com/2026/05/cognitive-sharpening-or-thinking-in.html'>Cognitive Sharpening, or Thinking in Conversation with AI</a></li>"
+    },
     {
         "title": "Cognitive Sharpening, or Thinking in Conversation with AI",
         "url": "https://www.stevehargadon.com/2026/05/cognitive-sharpening-or-thinking-in.html",
