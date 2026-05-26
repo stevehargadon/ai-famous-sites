@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-05-18T13:31:44.838Z
- * Total sites: 83
+ * Last updated: 2026-05-26T03:04:01.894Z
+ * Total sites: 84
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "Cognitive Sharpening, or Thinking in Conversation with AI",
+        "url": "https://www.stevehargadon.com/2026/05/cognitive-sharpening-or-thinking-in.html",
+        "domain": "cognitivesharpening.com",
+        "description": "Cognitive Sharpening, or Thinking in Conversation with AI"
+    },
     {
         "title": "Productive Alignment: Understanding Human Wisdom",
         "url": "https://www.stevehargadon.com/2026/05/productive-alignment-understanding.html",
