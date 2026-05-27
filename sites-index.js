@@ -3,8 +3,8 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-05-27T00:11:27.034Z
- * Total sites: 86
+ * Last updated: 2026-05-27T15:31:50.110Z
+ * Total sites: 87
  */
 (function() {
   'use strict';
@@ -12,16 +12,22 @@
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
     {
+        "title": "How Conspiracies Actually Work: A Better Map",
+        "url": "https://www.stevehargadon.com/2026/05/how-conspiracies-actually-work-better.html",
+        "domain": "howconspiracieswork.com",
+        "description": "How Conspiracies Actually Work: A Better Map"
+    },
+    {
         "title": "The Banality of Institutional Harm",
         "url": "https://www.stevehargadon.com/2026/05/the-banality-of-institutional-harm.html",
         "domain": "institutionalharm.com",
         "description": "The Banality of Institutional Harm"
     },
     {
-        "title": "<li><a href='https://www.stevehargadon.com/2026/05/cognitive-sharpening-or-thinking-in.html'>Cognitive Sharpening, or Thinking in Conversation with AI</a></li>",
+        "title": "LLMs and Protected Narratives",
         "url": "https://www.stevehargadon.com/2026/05/llms-and-protected-narratives.html",
         "domain": "llmgatekeeping.com",
-        "description": "<li><a href='https://www.stevehargadon.com/2026/05/cognitive-sharpening-or-thinking-in.html'>Cognitive Sharpening, or Thinking in Conversation with AI</a></li>"
+        "description": "LLMs and Protected Narratives"
     },
     {
         "title": "Cognitive Sharpening, or Thinking in Conversation with AI",
@@ -563,16 +569,17 @@
     // Build the HTML
     let html = '';
     otherSites.forEach(site => {
-      const href = site.domain.includes('/') ? 'https://' + site.domain + '/' : 'https://' + site.domain;
+      const siteHref = site.domain.includes('/') ? 'https://' + site.domain + '/': 'https://' + site.domain;
       const displayDomain = site.domain.includes('/') ? site.domain.split('/')[0] : site.domain;
-      html += '<a href="' + href + '" class="site-card" target="_blank" rel="noopener">' +
-        '<h3>' + site.title + '</h3>' +
+      html += '<div class="site-card">' +
+        '<h3><a href="' + site.url + '" target="_blank" rel="noopener">' + site.title + '</a></h3>' +
         '<p>' + site.description + '</p>' +
-        '<span class="domain">' + displayDomain + '</span>' +
-        '</a>';
+        '<a href="' + siteHref + '" class="domain" target="_blank" rel="noopener">' + displayDomain + '</a>' +
+        '</div>';
     });
-    
+
     container.innerHTML = html;
+
   }
   
   /**
