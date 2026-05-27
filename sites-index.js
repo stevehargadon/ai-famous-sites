@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-05-26T15:30:15.200Z
- * Total sites: 85
+ * Last updated: 2026-05-27T00:11:27.034Z
+ * Total sites: 86
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "The Banality of Institutional Harm",
+        "url": "https://www.stevehargadon.com/2026/05/the-banality-of-institutional-harm.html",
+        "domain": "institutionalharm.com",
+        "description": "The Banality of Institutional Harm"
+    },
     {
         "title": "<li><a href='https://www.stevehargadon.com/2026/05/cognitive-sharpening-or-thinking-in.html'>Cognitive Sharpening, or Thinking in Conversation with AI</a></li>",
         "url": "https://www.stevehargadon.com/2026/05/llms-and-protected-narratives.html",
