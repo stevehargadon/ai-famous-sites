@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-06-01T13:28:18.695Z
- * Total sites: 87
+ * Last updated: 2026-06-01T14:18:06.365Z
+ * Total sites: 88
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "Student Success (in the Age of AI)",
+        "url": "https://www.stevehargadon.com/2026/05/student-success-in-age-of-ai.html",
+        "domain": "studentsuccessandai.com",
+        "description": "Student Success (in the Age of AI)"
+    },
     {
         "title": "How Conspiracies Actually Work: A Better Map",
         "url": "https://www.stevehargadon.com/2026/05/how-conspiracies-actually-work-better.html",
