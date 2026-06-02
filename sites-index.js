@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-06-01T14:18:06.365Z
- * Total sites: 88
+ * Last updated: 2026-06-02T19:29:56.420Z
+ * Total sites: 89
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "Manufacturing Dissent",
+        "url": "https://www.stevehargadon.com/2026/06/manufacturing-dissent.html",
+        "domain": "manufacturingdissent.org",
+        "description": "Manufacturing Dissent"
+    },
     {
         "title": "Student Success (in the Age of AI)",
         "url": "https://www.stevehargadon.com/2026/05/student-success-in-age-of-ai.html",
