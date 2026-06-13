@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-06-13T14:59:51.372Z
- * Total sites: 90
+ * Last updated: 2026-06-13T16:46:48.577Z
+ * Total sites: 91
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "The Cost of Pretending",
+        "url": "https://www.stevehargadon.com/2026/06/the-cost-of-pretending.html",
+        "domain": "costofpretending.com",
+        "description": "The Cost of Pretending"
+    },
     {
         "title": "Truth and AI: Why Large Language Models Shouldn't Claim to Tell the Truth",
         "url": "https://www.stevehargadon.com/2026/06/truth-and-ai-why-large-language-models.html",
