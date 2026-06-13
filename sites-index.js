@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-06-13T16:46:48.577Z
- * Total sites: 91
+ * Last updated: 2026-06-13T21:27:30.539Z
+ * Total sites: 92
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "AI Is Building Secret Models of Human Behavior. It's Time to Require Disclosure.",
+        "url": "https://www.stevehargadon.com/2026/06/ai-is-building-secret-models-of-human.html",
+        "domain": "behaviormodeldisclosure.com",
+        "description": "AI Is Building Secret Models of Human Behavior. It's Time to Require Disclosure."
+    },
     {
         "title": "The Cost of Pretending",
         "url": "https://www.stevehargadon.com/2026/06/the-cost-of-pretending.html",
