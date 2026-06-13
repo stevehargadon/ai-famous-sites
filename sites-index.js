@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-06-02T19:29:56.420Z
- * Total sites: 89
+ * Last updated: 2026-06-13T14:59:51.372Z
+ * Total sites: 90
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "Truth and AI: Why Large Language Models Shouldn't Claim to Tell the Truth",
+        "url": "https://www.stevehargadon.com/2026/06/truth-and-ai-why-large-language-models.html",
+        "domain": "misinformationandai.com",
+        "description": "Truth and AI: Why Large Language Models Shouldn't Claim to Tell the Truth"
+    },
     {
         "title": "Manufacturing Dissent",
         "url": "https://www.stevehargadon.com/2026/06/manufacturing-dissent.html",
