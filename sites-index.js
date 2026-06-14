@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-06-13T21:27:30.539Z
- * Total sites: 92
+ * Last updated: 2026-06-14T18:53:03.351Z
+ * Total sites: 93
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "When the Economy Stops Needing Us: What If We Were Never the Main Story?",
+        "url": "https://www.stevehargadon.com/2026/06/when-economy-stops-needing-us-what-if.html",
+        "domain": "aiasfuel.com",
+        "description": "When the Economy Stops Needing Us: What If We Were Never the Main Story?"
+    },
     {
         "title": "AI Is Building Secret Models of Human Behavior. It's Time to Require Disclosure.",
         "url": "https://www.stevehargadon.com/2026/06/ai-is-building-secret-models-of-human.html",
