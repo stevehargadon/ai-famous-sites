@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-06-15T11:24:07.142Z
- * Total sites: 94
+ * Last updated: 2026-06-15T19:07:55.897Z
+ * Total sites: 95
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "The Functional Fiction Framework of Human Nature",
+        "url": "https://www.stevehargadon.com/2026/06/the-functional-fiction-framework-of.html",
+        "domain": "functionalfiction.org",
+        "description": "The Functional Fiction Framework of Human Nature"
+    },
     {
         "title": "Actual Conspiracies Exist and They Are Inevitable",
         "url": "https://www.stevehargadon.com/2026/06/actual-conspiracies-exist-and-they-are.html",
