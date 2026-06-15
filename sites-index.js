@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-06-14T18:53:03.351Z
- * Total sites: 93
+ * Last updated: 2026-06-15T11:24:07.142Z
+ * Total sites: 94
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "Actual Conspiracies Exist and They Are Inevitable",
+        "url": "https://www.stevehargadon.com/2026/06/actual-conspiracies-exist-and-they-are.html",
+        "domain": "actualconspiracies.com",
+        "description": "Actual Conspiracies Exist and They Are Inevitable"
+    },
     {
         "title": "When the Economy Stops Needing Us: What If We Were Never the Main Story?",
         "url": "https://www.stevehargadon.com/2026/06/when-economy-stops-needing-us-what-if.html",
