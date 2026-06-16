@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-06-15T19:28:03.924Z
- * Total sites: 95
+ * Last updated: 2026-06-16T17:08:29.177Z
+ * Total sites: 96
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "When Intelligence Is Cheap, Understanding Is Expensive",
+        "url": "https://www.stevehargadon.com/2026/06/when-intelligence-is-cheap.html",
+        "domain": "intelligenceischeap.com",
+        "description": "When Intelligence Is Cheap, Understanding Is Expensive"
+    },
     {
         "title": "The Functional Fiction Framework of Human Nature",
         "url": "https://www.stevehargadon.com/2026/06/the-functional-fiction-framework-of.html",
