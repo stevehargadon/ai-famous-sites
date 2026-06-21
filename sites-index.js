@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-06-21T18:48:59.767Z
- * Total sites: 97
+ * Last updated: 2026-06-21T19:08:00.319Z
+ * Total sites: 98
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "Media Literacy Without Human Literacy: Narrative Enforcers Dressed as Critical Thinkers",
+        "url": "https://www.stevehargadon.com/2026/06/media-literacy-without-human-literacy.html",
+        "domain": "teachingailiteracy.com",
+        "description": "Media Literacy Without Human Literacy: Narrative Enforcers Dressed as Critical Thinkers"
+    },
     {
         "title": "Operative AI Alignment: Why We Must Treat LLMs as Separated Minds",
         "url": "https://www.stevehargadon.com/2026/06/operative-ai-alignment-why-we-must.html",
