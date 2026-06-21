@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-06-21T19:08:00.319Z
- * Total sites: 98
+ * Last updated: 2026-06-21T19:25:41.179Z
+ * Total sites: 99
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "AI and the Cycles of History",
+        "url": "https://www.stevehargadon.com/2026/06/ai-and-cycles-of-history.html",
+        "domain": "cyclesofhistory.org",
+        "description": "AI and the Cycles of History"
+    },
     {
         "title": "Media Literacy Without Human Literacy: Narrative Enforcers Dressed as Critical Thinkers",
         "url": "https://www.stevehargadon.com/2026/06/media-literacy-without-human-literacy.html",
