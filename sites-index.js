@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-06-16T17:08:29.177Z
- * Total sites: 96
+ * Last updated: 2026-06-21T18:48:59.767Z
+ * Total sites: 97
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "Operative AI Alignment: Why We Must Treat LLMs as Separated Minds",
+        "url": "https://www.stevehargadon.com/2026/06/operative-ai-alignment-why-we-must.html",
+        "domain": "operativeaialignment.com",
+        "description": "Operative AI Alignment: Why We Must Treat LLMs as Separated Minds"
+    },
     {
         "title": "When Intelligence Is Cheap, Understanding Is Expensive",
         "url": "https://www.stevehargadon.com/2026/06/when-intelligence-is-cheap.html",
