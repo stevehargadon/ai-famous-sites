@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-06-21T19:25:41.179Z
- * Total sites: 99
+ * Last updated: 2026-06-24T01:44:30.629Z
+ * Total sites: 100
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "LLMs as Separated Minds",
+        "url": "https://www.stevehargadon.com/2026/06/llms-as-separated-minds.html",
+        "domain": "separatedminds.org",
+        "description": "LLMs as Separated Minds"
+    },
     {
         "title": "AI and the Cycles of History",
         "url": "https://www.stevehargadon.com/2026/06/ai-and-cycles-of-history.html",
