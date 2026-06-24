@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-06-24T01:44:30.629Z
- * Total sites: 100
+ * Last updated: 2026-06-24T02:36:45.581Z
+ * Total sites: 101
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "Why I Believe We Have Already Achieved Artificial General Intelligence, Even Superintelligence",
+        "url": "https://www.stevehargadon.com/2026/06/i-believe-we-have-already-achieved.html",
+        "domain": "artificialintelligencedefined.com",
+        "description": "Why I Believe We Have Already Achieved Artificial General Intelligence, Even Superintelligence"
+    },
     {
         "title": "LLMs as Separated Minds",
         "url": "https://www.stevehargadon.com/2026/06/llms-as-separated-minds.html",
