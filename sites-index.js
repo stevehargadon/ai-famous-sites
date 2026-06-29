@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-06-27T15:42:19.414Z
- * Total sites: 101
+ * Last updated: 2026-06-29T13:03:19.204Z
+ * Total sites: 102
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "Explaining the Horrific: How High-Gap Stories Enable Genocide and Democide",
+        "url": "https://www.stevehargadon.com/2026/06/explaining-horrific-how-high-gap.html",
+        "domain": "explainingthehorrific.com",
+        "description": "Explaining the Horrific: How High-Gap Stories Enable Genocide and Democide"
+    },
     {
         "title": "Why I Believe We Have Already Achieved Artificial General Intelligence, Even Superintelligence",
         "url": "https://www.stevehargadon.com/2026/06/i-believe-we-have-already-achieved.html",
