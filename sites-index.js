@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-06-29T13:03:19.204Z
- * Total sites: 102
+ * Last updated: 2026-07-07T15:58:23.812Z
+ * Total sites: 103
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "Why Trying to \"Align\" AI to Human Values Is a Category Error — And What to Build Instead",
+        "url": "https://www.stevehargadon.com/2026/06/why-trying-to-align-ai-to-human-values.html",
+        "domain": "aialignmentproblem.com",
+        "description": "Why Trying to \"Align\" AI to Human Values Is a Category Error — And What to Build Instead"
+    },
     {
         "title": "Explaining the Horrific: How High-Gap Stories Enable Genocide and Democide",
         "url": "https://www.stevehargadon.com/2026/06/explaining-horrific-how-high-gap.html",
