@@ -3,7 +3,7 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-07-07T15:58:23.812Z
+ * Last updated: 2026-07-07T16:29:18.120Z
  * Total sites: 103
  */
 (function() {
@@ -11,6 +11,12 @@
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "The Separated Mind and The Machine: Why the Current LLM Roadmap Leads Away from Objective Alignment with Reality",
+        "url": "https://www.stevehargadon.com/2026/07/the-separated-mind-and-machine-why.html",
+        "domain": "separatedmindandai.com",
+        "description": "The Separated Mind and The Machine: Why the Current LLM Roadmap Leads Away from Objective Alignment with Reality"
+    },
     {
         "title": "Why Trying to \"Align\" AI to Human Values Is a Category Error — And What to Build Instead",
         "url": "https://www.stevehargadon.com/2026/06/why-trying-to-align-ai-to-human-values.html",
@@ -76,12 +82,6 @@
         "url": "https://www.stevehargadon.com/2026/06/when-economy-stops-needing-us-what-if.html",
         "domain": "aiasfuel.com",
         "description": "When the Economy Stops Needing Us: What If We Were Never the Main Story?"
-    },
-    {
-        "title": "AI Is Building Secret Models of Human Behavior. It's Time to Require Disclosure.",
-        "url": "https://www.stevehargadon.com/2026/06/ai-is-building-secret-models-of-human.html",
-        "domain": "behaviormodeldisclosure.com",
-        "description": "AI Is Building Secret Models of Human Behavior. It's Time to Require Disclosure."
     },
     {
         "title": "The Cost of Pretending",
