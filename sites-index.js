@@ -3,7 +3,7 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-07-07T17:21:07.279Z
+ * Last updated: 2026-07-10T15:47:33.212Z
  * Total sites: 104
  */
 (function() {
