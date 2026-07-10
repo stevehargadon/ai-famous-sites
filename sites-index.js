@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-07-10T15:47:33.212Z
- * Total sites: 104
+ * Last updated: 2026-07-10T15:49:00.638Z
+ * Total sites: 105
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "Humans as Narration Machines: Why Our Most Important Stories Are Emotional, Not True",
+        "url": "https://www.stevehargadon.com/2026/07/humans-as-narration-machines-why-our.html",
+        "domain": "narrativemachines.com",
+        "description": "Humans as Narration Machines: Why Our Most Important Stories Are Emotional, Not True"
+    },
     {
         "title": "The Separated Mind and The Machine: Why the Current LLM Roadmap Leads Away from Objective Alignment with Reality",
         "url": "https://www.stevehargadon.com/2026/07/the-separated-mind-and-machine-why.html",
