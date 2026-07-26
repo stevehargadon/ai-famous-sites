@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-07-26T03:16:47.744Z
- * Total sites: 106
+ * Last updated: 2026-07-26T18:36:55.120Z
+ * Total sites: 107
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "Why School Is the Same Everywhere, and the Revolution That Never Comes",
+        "url": "https://www.stevehargadon.com/2026/07/why-school-is-same-everywhere-and.html",
+        "domain": "schoolisthesame.com",
+        "description": "Why School Is the Same Everywhere, and the Revolution That Never Comes"
+    },
     {
         "title": "What We're Calling AI Is Not Just One Thing: A Map of What's Working, What Isn't, and Why It Matters",
         "url": "https://www.stevehargadon.com/2026/07/what-were-calling-ai-is-not-just-one.html",
