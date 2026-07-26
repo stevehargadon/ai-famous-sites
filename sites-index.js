@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-07-10T15:49:00.638Z
- * Total sites: 105
+ * Last updated: 2026-07-26T03:16:47.744Z
+ * Total sites: 106
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "What We're Calling AI Is Not Just One Thing: A Map of What's Working, What Isn't, and Why It Matters",
+        "url": "https://www.stevehargadon.com/2026/07/what-were-calling-ai-is-not-just-one.html",
+        "domain": "amapofai.com",
+        "description": "What We're Calling AI Is Not Just One Thing: A Map of What's Working, What Isn't, and Why It Matters"
+    },
     {
         "title": "Humans as Narration Machines: Why Our Most Important Stories Are Emotional, Not True",
         "url": "https://www.stevehargadon.com/2026/07/humans-as-narration-machines-why-our.html",
