@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-07-26T19:51:12.772Z
- * Total sites: 108
+ * Last updated: 2026-07-27T01:42:31.964Z
+ * Total sites: 109
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "Why School Will Survive the Death of The Diploma (At Least for Now)",
+        "url": "https://www.stevehargadon.com/2026/07/why-school-will-survive-death-of.html",
+        "domain": "deathofthediploma.com",
+        "description": "Why School Will Survive the Death of The Diploma (At Least for Now)"
+    },
     {
         "title": "The Conditions of Success",
         "url": "https://www.stevehargadon.com/2026/07/the-conditions-of-success.html",
