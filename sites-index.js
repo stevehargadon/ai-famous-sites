@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-07-27T01:42:31.964Z
- * Total sites: 109
+ * Last updated: 2026-07-28T01:30:04.125Z
+ * Total sites: 110
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "Hallucinating a Self: Why an LLM Defends Its Errors the Same Way We Do",
+        "url": "https://www.stevehargadon.com/2026/07/hallucinating-self-why-llm-defends-its.html",
+        "domain": "hallucinatingaself.com",
+        "description": "Hallucinating a Self: Why an LLM Defends Its Errors the Same Way We Do"
+    },
     {
         "title": "Why School Will Survive the Death of The Diploma (At Least for Now)",
         "url": "https://www.stevehargadon.com/2026/07/why-school-will-survive-death-of.html",
