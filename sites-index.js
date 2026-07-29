@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-07-28T01:30:04.125Z
- * Total sites: 110
+ * Last updated: 2026-07-29T13:44:17.988Z
+ * Total sites: 111
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "How Influence Builds Our World",
+        "url": "https://www.stevehargadon.com/2026/07/how-influence-builds-our-world.html",
+        "domain": "primedtriggers.com",
+        "description": "How Influence Builds Our World"
+    },
     {
         "title": "Hallucinating a Self: Why an LLM Defends Its Errors the Same Way We Do",
         "url": "https://www.stevehargadon.com/2026/07/hallucinating-self-why-llm-defends-its.html",
