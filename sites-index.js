@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-08-03T21:00:30.145Z
- * Total sites: 112
+ * Last updated: 2026-08-03T21:01:51.552Z
+ * Total sites: 113
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "Students Wrote a Coherent National Policy on AI",
+        "url": "https://www.stevehargadon.com/2026/07/students-wrote-coherent-national-policy.html",
+        "domain": "studentaipolicy.com",
+        "description": "Students Wrote a Coherent National Policy on AI"
+    },
     {
         "title": "AI: The Danger Is Human",
         "url": "https://www.stevehargadon.com/2026/07/ai-danger-is-human.html",
