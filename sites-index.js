@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-07-29T13:44:17.988Z
- * Total sites: 111
+ * Last updated: 2026-08-03T21:00:30.145Z
+ * Total sites: 112
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "AI: The Danger Is Human",
+        "url": "https://www.stevehargadon.com/2026/07/ai-danger-is-human.html",
+        "domain": "thedangerishuman.com",
+        "description": "AI: The Danger Is Human"
+    },
     {
         "title": "How Influence Builds Our World",
         "url": "https://www.stevehargadon.com/2026/07/how-influence-builds-our-world.html",
