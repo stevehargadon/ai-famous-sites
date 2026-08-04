@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-08-03T21:01:51.552Z
- * Total sites: 113
+ * Last updated: 2026-08-04T22:37:56.354Z
+ * Total sites: 114
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "AI Safety Fears: Language Clarity on Intelligence, Consciousness, and Motivation",
+        "url": "https://www.stevehargadon.com/2026/08/the-ai-safety-fears-language-clarity-on.html",
+        "domain": "aisafetyfears.com",
+        "description": "AI Safety Fears: Language Clarity on Intelligence, Consciousness, and Motivation"
+    },
     {
         "title": "Students Wrote a Coherent National Policy on AI",
         "url": "https://www.stevehargadon.com/2026/07/students-wrote-coherent-national-policy.html",
