@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-08-04T22:37:56.354Z
- * Total sites: 114
+ * Last updated: 2026-08-08T22:33:26.776Z
+ * Total sites: 115
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "The 3 C's of Compulsory Schooling",
+        "url": "https://www.stevehargadon.com/2026/08/the-3-cs-of-compulsory-schooling.html",
+        "domain": "compulsoryschooling.com",
+        "description": "The 3 C's of Compulsory Schooling"
+    },
     {
         "title": "AI Safety Fears: Language Clarity on Intelligence, Consciousness, and Motivation",
         "url": "https://www.stevehargadon.com/2026/08/the-ai-safety-fears-language-clarity-on.html",
