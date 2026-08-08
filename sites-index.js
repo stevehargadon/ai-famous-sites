@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-08-08T22:33:26.776Z
- * Total sites: 115
+ * Last updated: 2026-08-08T22:34:43.459Z
+ * Total sites: 116
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "A Sociological Review of the Covid Vaccines",
+        "url": "https://www.stevehargadon.com/2026/08/a-sociological-review-of-covid-vaccine.html",
+        "domain": "covidvaccines.org",
+        "description": "A Sociological Review of the Covid Vaccines"
+    },
     {
         "title": "The 3 C's of Compulsory Schooling",
         "url": "https://www.stevehargadon.com/2026/08/the-3-cs-of-compulsory-schooling.html",
