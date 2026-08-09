@@ -3,14 +3,26 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-08-08T22:34:44.626Z
- * Total sites: 116
+ * Last updated: 2026-08-09T13:50:59.409Z
+ * Total sites: 118
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "Adversarial Inquiry: Introducing Human Truth-Seeking into LLMs",
+        "url": "https://www.stevehargadon.com/2026/08/adversarial-inquiry-introducing-human.html",
+        "domain": "adversarialinquiry.com",
+        "description": "Adversarial Inquiry: Introducing Human Truth-Seeking into LLMs"
+    },
+    {
+        "title": "The Evolved Cave: My Version of Plato's Allegory",
+        "url": "https://www.stevehargadon.com/2026/08/the-evolved-cave-my-version-of-platos.html",
+        "domain": "evolvedcave.com",
+        "description": "The Evolved Cave: My Version of Plato's Allegory"
+    },
     {
         "title": "A Sociological Review of the Covid Vaccines",
         "url": "https://www.stevehargadon.com/2026/08/a-sociological-review-of-covid-vaccine.html",
