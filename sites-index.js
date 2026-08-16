@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-08-09T13:50:59.409Z
- * Total sites: 118
+ * Last updated: 2026-08-16T22:11:50.959Z
+ * Total sites: 119
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "Motivational Blindness: Why Ignoring Human Nature Is So Financially Attractive, So Pervasive, and So Damaging",
+        "url": "https://www.stevehargadon.com/2026/08/motivational-blindness-why-ignoring.html",
+        "domain": "motivationalblindness.com",
+        "description": "Motivational Blindness: Why Ignoring Human Nature Is So Financially Attractive, So Pervasive, and So Damaging"
+    },
     {
         "title": "Adversarial Inquiry: Introducing Human Truth-Seeking into LLMs",
         "url": "https://www.stevehargadon.com/2026/08/adversarial-inquiry-introducing-human.html",
