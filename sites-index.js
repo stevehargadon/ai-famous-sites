@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-08-16T22:11:50.959Z
- * Total sites: 119
+ * Last updated: 2026-08-16T22:13:20.798Z
+ * Total sites: 120
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "Social Control Systems Are Inevitable: Empire Is Always with Us",
+        "url": "https://www.stevehargadon.com/2026/08/social-control-systems-are-inevitable.html",
+        "domain": "socialcontrolsystems.com",
+        "description": "Social Control Systems Are Inevitable: Empire Is Always with Us"
+    },
     {
         "title": "Motivational Blindness: Why Ignoring Human Nature Is So Financially Attractive, So Pervasive, and So Damaging",
         "url": "https://www.stevehargadon.com/2026/08/motivational-blindness-why-ignoring.html",
