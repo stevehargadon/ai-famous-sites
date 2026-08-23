@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-08-23T23:11:43.935Z
- * Total sites: 122
+ * Last updated: 2026-08-23T23:13:07.721Z
+ * Total sites: 123
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "Socrates and AI",
+        "url": "https://www.stevehargadon.com/2026/08/socrates-and-ai.html",
+        "domain": "socratesandai.com",
+        "description": "Socrates and AI"
+    },
     {
         "title": "Birth Order, Temperament, and the Adaptive Mind",
         "url": "https://www.stevehargadon.com/2026/08/birth-order-temperament-and-adaptive.html",
