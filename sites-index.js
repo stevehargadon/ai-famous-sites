@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-08-16T22:13:20.798Z
- * Total sites: 120
+ * Last updated: 2026-08-23T23:10:52.923Z
+ * Total sites: 121
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "Why Synthetic Data Training Is AI Drinking Its Own Kool-Aid",
+        "url": "https://www.stevehargadon.com/2026/08/why-synthetic-data-training-is-ai.html",
+        "domain": "syntheticdatatraining.com",
+        "description": "Why Synthetic Data Training Is AI Drinking Its Own Kool-Aid"
+    },
     {
         "title": "Social Control Systems Are Inevitable: Empire Is Always with Us",
         "url": "https://www.stevehargadon.com/2026/08/social-control-systems-are-inevitable.html",
