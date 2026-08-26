@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-08-23T23:13:07.721Z
- * Total sites: 123
+ * Last updated: 2026-08-26T17:14:47.611Z
+ * Total sites: 124
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "Go Ahead and Watermark",
+        "url": "https://www.stevehargadon.com/2026/08/go-ahead-and-watermark.html",
+        "domain": "llmwriting.org",
+        "description": "Go Ahead and Watermark"
+    },
     {
         "title": "Socrates and AI",
         "url": "https://www.stevehargadon.com/2026/08/socrates-and-ai.html",
