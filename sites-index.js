@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-08-26T17:14:47.611Z
- * Total sites: 124
+ * Last updated: 2026-10-05T14:13:32.842Z
+ * Total sites: 125
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "The Primary Gender Paradox",
+        "url": "https://www.stevehargadon.com/2026/08/the-primary-gender-paradox.html",
+        "domain": "primarygenderparadox.com",
+        "description": "The Primary Gender Paradox"
+    },
     {
         "title": "Go Ahead and Watermark",
         "url": "https://www.stevehargadon.com/2026/08/go-ahead-and-watermark.html",
