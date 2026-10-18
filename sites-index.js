@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-10-18T22:44:37.213Z
- * Total sites: 126
+ * Last updated: 2026-10-18T22:45:52.699Z
+ * Total sites: 127
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "Talking to the Elephant: Why Hypnosis Matters in the Age of AI",
+        "url": "https://www.stevehargadon.com/2026/10/talking-to-elephant-why-hypnosis.html",
+        "domain": "talkingtotheelephant.com",
+        "description": "Talking to the Elephant: Why Hypnosis Matters in the Age of AI"
+    },
     {
         "title": "College Success with AI: AI Isn't Breaking Education — It's Exposing It",
         "url": "https://www.stevehargadon.com/2026/10/college-success-with-ai-ai-isnt.html",
