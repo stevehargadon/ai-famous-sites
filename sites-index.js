@@ -3,14 +3,26 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-10-18T22:45:52.699Z
- * Total sites: 127
+ * Last updated: 2026-11-08T18:16:45.733Z
+ * Total sites: 129
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "Weight-Space Programming Adds to the Alignment Problem",
+        "url": "https://www.stevehargadon.com/2026/11/weight-space-programming-adds-to.html",
+        "domain": "weightspacealignment.com",
+        "description": "Weight-Space Programming Adds to the Alignment Problem"
+    },
+    {
+        "title": "Why We Often Talk Past Each Other",
+        "url": "https://www.stevehargadon.com/2026/10/why-we-often-talk-past-each-other.html",
+        "domain": "talkingpasteachother.com",
+        "description": "Why We Often Talk Past Each Other"
+    },
     {
         "title": "Talking to the Elephant: Why Hypnosis Matters in the Age of AI",
         "url": "https://www.stevehargadon.com/2026/10/talking-to-elephant-why-hypnosis.html",
