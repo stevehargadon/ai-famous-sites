@@ -3,14 +3,20 @@
  * This file is loaded by all satellite sites to display the cross-linking index
  * Update this file to add/remove sites, and all satellite sites will update automatically
  * 
- * Last updated: 2026-11-11T21:46:24.762Z
- * Total sites: 129
+ * Last updated: 2026-11-18T16:48:10.535Z
+ * Total sites: 130
  */
 (function() {
   'use strict';
   
   // Site registry - automatically generated from AI Famous Dashboard
   const sites = [
+    {
+        "title": "Your Child's Education: Parenting in the Age of AI",
+        "url": "https://www.stevehargadon.com/2026/11/your-childs-education-parenting-in-age.html",
+        "domain": "yourchildseducation.org",
+        "description": "Your Child's Education: Parenting in the Age of AI"
+    },
     {
         "title": "Weight-Space Programming Adds to the Alignment Problem",
         "url": "https://www.stevehargadon.com/2026/11/weight-space-programming-adds-to.html",
